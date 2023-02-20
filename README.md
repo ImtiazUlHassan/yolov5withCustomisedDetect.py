@@ -24,4 +24,5 @@ Run the following
 python3 Webcam.py
 
 ```
-![image](https://user-images.githubusercontent.com/56826204/220097755-3febd9bf-6958-41ea-8b7a-e9192f659cb0.png)
+
+![image](https://user-images.githubusercontent.com/56826204/220120658-f61527ac-7d6a-4cd7-8f96-ab10f244bb25.png)
